@@ -3,7 +3,7 @@
 
 编译方法
 
-mkdir build
+mkdir build && cd build
 
 cmake ..
 
